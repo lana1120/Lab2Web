@@ -61,3 +61,11 @@ Kelas  : TI.24.A2
 
 # Tugas 2
 - _Tahap pertama_
+
+ <img width="975" height="502" alt="Image" src="https://github.com/user-attachments/assets/bebb9139-487b-4791-8d1a-6bc5ed24b3f1" />
+
+ <img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3aa74284-b9cd-44af-a66a-984700673610" />
+
+ - _Tahap Kedua_
+
+   
