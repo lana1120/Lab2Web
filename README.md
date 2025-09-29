@@ -76,3 +76,8 @@ Kelas  : TI.24.A2
 
 
 - # _Tahap Keempat_
+<img width="621" height="523" alt="Image" src="https://github.com/user-attachments/assets/68da3ada-9348-4fa6-be54-bc8903c8d98c" />
+<img width="976" height="516" alt="Image" src="https://github.com/user-attachments/assets/608afca9-d132-4ac0-9407-3c21908cb997" />
+
+
+- # _Tahap Kelima_
